@@ -3,5 +3,5 @@
 ## Usage
 
 ```
-rpm-ostree rebase -r ostree-image-signed:docker://ghcr.io/starr-dust/silverblue:latest
+rpm-ostree rebase -r ostree-unverified-registry:ghcr.io/starr-dust/silverblue:latest
 ```
